@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-UK"
+locale                   : "en-US"
 title                    : "Jack Gisby"
 title_separator          : "-"
 name                     : &name "Jack Gisby"
@@ -86,7 +86,7 @@ author:
   location         : "Imperial College London"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=UtFqF9UAAAAJ&hl=en"
+  googlescholar    :  # to add: "https://scholar.google.com/citations?user=UtFqF9UAAAAJ&hl=en"
   email            : "jackgisby@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
