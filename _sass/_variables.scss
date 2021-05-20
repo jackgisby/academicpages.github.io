@@ -58,9 +58,9 @@ $orange                     : #cb4b16;
 $magenta                    : #d33682;
 $red                        : #dc322f;
 
-$gray                       : #839496;
-$dark-gray                  : #657b83;
+$gray                       : #657b83;
 $darker-gray                : #073642;
+$dark-gray                  : mix($gray, $darker-gray, 50%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
