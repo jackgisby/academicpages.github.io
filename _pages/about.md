@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate in the <a href="http://www.imperial.ac.uk/immunology-inflammation/">Department of Immunology and Inflammation</a> at Imperial College London. I'm interested in using multi-omics data to understand biology.
+I am a PhD candidate in the <a href="http://www.imperial.ac.uk/immunology-inflammation/">Department of Immunology and Inflammation</a> at Imperial College London. I am investigating multi-omics datasets to understand biology and developing tools to facilitate the interpretation of biological data.
 
 My core project involves elucidating the role of genes and proteins in the context of inflammatory disease. I am currently combining genomic, transcriptomic and <a href="https://doi.org/10.7554/eLife.64827">proteomic</a> data to identify molecular pathways that play a driving role in the pathogenesis of COVID-19.
 
