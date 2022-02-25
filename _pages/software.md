@@ -20,7 +20,7 @@ BiocManager::install("packFinder")
 
 A tutorial for the common use of the package is available on the <a href="https://doi.org/doi:10.18129/B9.bioc.packFinder">Bioconductor website</a> and the code is available <a href="https://github.com/jackgisby/packFinder">on github</a>. 
 
-We have employed the package for the annotation of Pack-TYPE TEs in multiple plant genomes for previously unreported families. A manuscript is currently in preparation.
+We have employed the package for the annotation of Pack-TYPE TEs in multiple plant genomes for previously unreported families. A paper describing this work has now been published <a href="https://doi.org/10.1371/journal.pgen.1010078">in PLOS Genetics</a>. 
 
 # MetaboBlend
 
